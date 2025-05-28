@@ -13,7 +13,7 @@ So I decided to write that article myself.
 ## 🕵️‍♂️ Simpson's Paradox: The Reason Your Data Has Trust Issues
 Imagine you have two doctors: Doctor A 👩🏼‍⚕️ and Doctor B 🧑🏼‍⚕️. They perform the same type of surgeries. Let's have a look at their success rate:  
 
-![example figure](./articles/figures/simpsons_paradox_figure.png)
+![example figure](figures/simpsons_paradox_figure.png)
   
 **In more serious terms**, Simpson’s Paradox occurs when a trend that appears in several separate groups of data reverses or disappears when the groups are combined.  
   
